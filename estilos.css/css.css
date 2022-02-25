@@ -1,0 +1,54 @@
+.logo {
+  width: 100px;
+}
+.text-dark {
+  font-size: 20px;
+  font-weight: bold;
+}
+.menu {
+  z-index: 10px;
+}
+.banner {
+  background-image: url(../imagenes/tacos.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+.fondo {
+  height: 100vh;
+  margin-left: 150px;
+}
+
+.sesion-2 {
+  background-image: url("../imagenes/utencilios.jpg");
+  background-size: cover;
+}
+h1,
+h2 {
+  font-family: "Ole", cursive;
+  font-family: "Pacifico", cursive;
+}
+h3 {
+  font-family: "Bebas Neue", cursive;
+}
+.fondo h1 {
+  font-size: 50px;
+  font-weight: 300;
+}
+.fondo h3 {
+  font-size: 150px;
+}
+.sesion-3 {
+  background-image: url("../imagenes/luces.jpg");
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+  background-attachment: fixed;
+}
+.descripcion h1,
+descripcion h3 {
+  font-size: 50px;
+  font-weight: 300;
+}
+.descripcion h3 {
+  font-size: 30px;
+}
